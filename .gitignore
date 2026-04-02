@@ -205,3 +205,4 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+\n# YouTube OAuth\nclient_secrets.json\ntoken.json\n\n# Hermes Logs\nhermes_log.txt\nhermes_dry_run_log.txt\nhermes_current_video.txt\nmaster_hermes_log.txt
